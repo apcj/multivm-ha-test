@@ -1,8 +1,8 @@
 Download and unpack an HA release, then compile the test code:
 
-    ./build
+    ./build.sh
     
 Run the test:
 
-    ./run
+    ./run.sh
     
