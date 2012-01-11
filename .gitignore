@@ -1,0 +1,5 @@
+neo4j-enterprise-1.6.M03*
+out/
+target/
+*.iml
+.idea/
